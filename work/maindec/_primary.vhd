@@ -1,0 +1,60 @@
+library verilog;
+use verilog.vl_types.all;
+entity maindec is
+    generic(
+        FETCH           : vl_logic_vector(0 to 4) := (Hi0, Hi0, Hi0, Hi0, Hi0);
+        DECODE          : vl_logic_vector(0 to 4) := (Hi0, Hi0, Hi0, Hi0, Hi1);
+        MEMADR          : vl_logic_vector(0 to 4) := (Hi0, Hi0, Hi0, Hi1, Hi0);
+        MEMRD           : vl_logic_vector(0 to 4) := (Hi0, Hi0, Hi0, Hi1, Hi1);
+        MEMWB           : vl_logic_vector(0 to 4) := (Hi0, Hi0, Hi1, Hi0, Hi0);
+        MEMWR           : vl_logic_vector(0 to 4) := (Hi0, Hi0, Hi1, Hi0, Hi1);
+        EXECUTE         : vl_logic_vector(0 to 4) := (Hi0, Hi0, Hi1, Hi1, Hi0);
+        ALUWRITEBACK    : vl_logic_vector(0 to 4) := (Hi0, Hi0, Hi1, Hi1, Hi1);
+        \BRANCH\        : vl_logic_vector(0 to 4) := (Hi0, Hi1, Hi0, Hi0, Hi0);
+        ADDIEXECUTE     : vl_logic_vector(0 to 4) := (Hi0, Hi1, Hi0, Hi0, Hi1);
+        ADDIWRITEBACK   : vl_logic_vector(0 to 4) := (Hi0, Hi1, Hi0, Hi1, Hi0);
+        JUMP            : vl_logic_vector(0 to 4) := (Hi0, Hi1, Hi0, Hi1, Hi1);
+        LW              : vl_logic_vector(0 to 5) := (Hi1, Hi0, Hi0, Hi0, Hi1, Hi1);
+        SW              : vl_logic_vector(0 to 5) := (Hi1, Hi0, Hi1, Hi0, Hi1, Hi1);
+        RTYPE           : vl_logic_vector(0 to 5) := (Hi0, Hi0, Hi0, Hi0, Hi0, Hi0);
+        BEQ             : vl_logic_vector(0 to 5) := (Hi0, Hi0, Hi0, Hi1, Hi0, Hi0);
+        ADDI            : vl_logic_vector(0 to 5) := (Hi0, Hi0, Hi1, Hi0, Hi0, Hi0);
+        J               : vl_logic_vector(0 to 5) := (Hi0, Hi0, Hi0, Hi0, Hi1, Hi0)
+    );
+    port(
+        clk             : in     vl_logic;
+        reset           : in     vl_logic;
+        op              : in     vl_logic_vector(5 downto 0);
+        pcwrite         : out    vl_logic;
+        memwrite        : out    vl_logic;
+        irwrite         : out    vl_logic;
+        regwrite        : out    vl_logic;
+        alusrca         : out    vl_logic;
+        branch          : out    vl_logic;
+        iord            : out    vl_logic;
+        memtoreg        : out    vl_logic;
+        regdst          : out    vl_logic;
+        alusrcb         : out    vl_logic_vector(1 downto 0);
+        pcsrc           : out    vl_logic_vector(1 downto 0);
+        aluop           : out    vl_logic_vector(1 downto 0)
+    );
+    attribute mti_svvh_generic_type : integer;
+    attribute mti_svvh_generic_type of FETCH : constant is 1;
+    attribute mti_svvh_generic_type of DECODE : constant is 1;
+    attribute mti_svvh_generic_type of MEMADR : constant is 1;
+    attribute mti_svvh_generic_type of MEMRD : constant is 1;
+    attribute mti_svvh_generic_type of MEMWB : constant is 1;
+    attribute mti_svvh_generic_type of MEMWR : constant is 1;
+    attribute mti_svvh_generic_type of EXECUTE : constant is 1;
+    attribute mti_svvh_generic_type of ALUWRITEBACK : constant is 1;
+    attribute mti_svvh_generic_type of \BRANCH\ : constant is 1;
+    attribute mti_svvh_generic_type of ADDIEXECUTE : constant is 1;
+    attribute mti_svvh_generic_type of ADDIWRITEBACK : constant is 1;
+    attribute mti_svvh_generic_type of JUMP : constant is 1;
+    attribute mti_svvh_generic_type of LW : constant is 1;
+    attribute mti_svvh_generic_type of SW : constant is 1;
+    attribute mti_svvh_generic_type of RTYPE : constant is 1;
+    attribute mti_svvh_generic_type of BEQ : constant is 1;
+    attribute mti_svvh_generic_type of ADDI : constant is 1;
+    attribute mti_svvh_generic_type of J : constant is 1;
+end maindec;
