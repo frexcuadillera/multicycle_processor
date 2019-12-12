@@ -4,8 +4,7 @@ module mem(input         clk, we,
 
   reg  [31:0] RAM[63:0];
 
-  initial
-    begin
+  initial begin
 		RAM[0] <= 32'h20020005;
 		RAM[1] <= 32'h2003000c;
 		RAM[2] <= 32'h2067fff7;
