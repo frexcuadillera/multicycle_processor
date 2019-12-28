@@ -1,4 +1,11 @@
-C:/Users/Frex/Documents/GitHub/multicycle_processor/datapath.v {1 {vlog -work work C:/Users/Frex/Documents/GitHub/multicycle_processor/datapath.v
+C:/Users/Frex/Documents/GitHub/multicycle_processor/alu_tb.v {1 {vlog -work work {C:\Users\Frex\Documents\GitHub\multicycle_processor\alu_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module alu_tb
+
+Top level modules:
+	alu_tb
+
+} {} {}} C:/Users/Frex/Documents/GitHub/multicycle_processor/datapath.v {1 {vlog -work work C:/Users/Frex/Documents/GitHub/multicycle_processor/datapath.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 -- Compiling module datapath
 
@@ -25,6 +32,13 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 
 Top level modules:
 	alu
+
+} {} {}} C:/Users/Frex/Documents/GitHub/multicycle_processor/regfile_tb.v {1 {vlog -work work {C:\Users\Frex\Documents\GitHub\multicycle_processor\regfile_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module regfile_tb
+
+Top level modules:
+	regfile_tb
 
 } {} {}} C:/Users/Frex/Documents/GitHub/multicycle_processor/flopenr_tb.v {1 {vlog -work work C:/Users/Frex/Documents/GitHub/multicycle_processor/flopenr_tb.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
@@ -82,12 +96,12 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 Top level modules:
 	testbench
 
-} {} {}} C:/Users/Frex/Documents/GitHub/multicycle_processor/mips.v {1 {vlog -work work C:/Users/Frex/Documents/GitHub/multicycle_processor/mips.v
+} {} {}} C:/Users/Frex/Documents/GitHub/multicycle_processor/controller_tb.v {1 {vlog -work work C:/Users/Frex/Documents/GitHub/multicycle_processor/controller_tb.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module mips
+-- Compiling module controller_tb
 
 Top level modules:
-	mips
+	controller_tb
 
 } {} {}} C:/Users/Frex/Documents/GitHub/multicycle_processor/mux2_tb.v {1 {vlog -work work {C:\Users\Frex\Documents\GitHub\multicycle_processor\mux2_tb.v}
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
@@ -96,12 +110,12 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 Top level modules:
 	mux2_tb
 
-} {} {}} C:/Users/Frex/Documents/GitHub/multicycle_processor/controller_tb.v {1 {vlog -work work C:/Users/Frex/Documents/GitHub/multicycle_processor/controller_tb.v
+} {} {}} C:/Users/Frex/Documents/GitHub/multicycle_processor/mips.v {1 {vlog -work work C:/Users/Frex/Documents/GitHub/multicycle_processor/mips.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module controller_tb
+-- Compiling module mips
 
 Top level modules:
-	controller_tb
+	mips
 
 } {} {}} C:/Users/Frex/Documents/GitHub/multicycle_processor/signext.v {1 {vlog -work work C:/Users/Frex/Documents/GitHub/multicycle_processor/signext.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
@@ -110,13 +124,6 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 Top level modules:
 	signext
 
-} {} {}} C:/Users/Frex/Documents/GitHub/multicycle_processor/s12_tb.v {1 {vlog -work work C:/Users/Frex/Documents/GitHub/multicycle_processor/s12_tb.v
-Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module s12_tb
-
-Top level modules:
-	s12_tb
-
 } {} {}} C:/Users/Frex/Documents/GitHub/multicycle_processor/mux4_tb.v {1 {vlog -work work C:/Users/Frex/Documents/GitHub/multicycle_processor/mux4_tb.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 -- Compiling module mux4_tb
@@ -124,19 +131,12 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 Top level modules:
 	mux4_tb
 
-} {} {}} C:/Users/Frex/Documents/GitHub/multicycle_processor/mem_tb.v {1 {vlog -work work C:/Users/Frex/Documents/GitHub/multicycle_processor/mem_tb.v
+} {} {}} C:/Users/Frex/Documents/GitHub/multicycle_processor/s12_tb.v {1 {vlog -work work C:/Users/Frex/Documents/GitHub/multicycle_processor/s12_tb.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module mem_tb
+-- Compiling module s12_tb
 
 Top level modules:
-	mem_tb
-
-} {} {}} C:/Users/Frex/Documents/GitHub/multicycle_processor/mux2.v {1 {vlog -work work C:/Users/Frex/Documents/GitHub/multicycle_processor/mux2.v
-Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module mux2
-
-Top level modules:
-	mux2
+	s12_tb
 
 } {} {}} C:/Users/Frex/Documents/GitHub/multicycle_processor/controller.v {1 {vlog -work work C:/Users/Frex/Documents/GitHub/multicycle_processor/controller.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
@@ -145,6 +145,20 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 Top level modules:
 	controller
 
+} {} {}} C:/Users/Frex/Documents/GitHub/multicycle_processor/mux2.v {1 {vlog -work work C:/Users/Frex/Documents/GitHub/multicycle_processor/mux2.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux2
+
+Top level modules:
+	mux2
+
+} {} {}} C:/Users/Frex/Documents/GitHub/multicycle_processor/mem_tb.v {1 {vlog -work work C:/Users/Frex/Documents/GitHub/multicycle_processor/mem_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mem_tb
+
+Top level modules:
+	mem_tb
+
 } {} {}} C:/Users/Frex/Documents/GitHub/multicycle_processor/mux3.v {1 {vlog -work work C:/Users/Frex/Documents/GitHub/multicycle_processor/mux3.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 -- Compiling module mux3
@@ -152,19 +166,12 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 Top level modules:
 	mux3
 
-} {} {}} C:/Users/Frex/Documents/GitHub/multicycle_processor/aludec.v {1 {vlog -work work C:/Users/Frex/Documents/GitHub/multicycle_processor/aludec.v
+} {} {}} C:/Users/Frex/Documents/GitHub/multicycle_processor/topmulti.v {1 {vlog -work work C:/Users/Frex/Documents/GitHub/multicycle_processor/topmulti.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module aludec
+-- Compiling module topmulti
 
 Top level modules:
-	aludec
-
-} {} {}} C:/Users/Frex/Documents/GitHub/multicycle_processor/s12.v {1 {vlog -work work C:/Users/Frex/Documents/GitHub/multicycle_processor/s12.v
-Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module sl2
-
-Top level modules:
-	sl2
+	topmulti
 
 } {} {}} C:/Users/Frex/Documents/GitHub/multicycle_processor/mux4.v {1 {vlog -work work C:/Users/Frex/Documents/GitHub/multicycle_processor/mux4.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
@@ -173,11 +180,18 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 Top level modules:
 	mux4
 
-} {} {}} C:/Users/Frex/Documents/GitHub/multicycle_processor/topmulti.v {1 {vlog -work work C:/Users/Frex/Documents/GitHub/multicycle_processor/topmulti.v
+} {} {}} C:/Users/Frex/Documents/GitHub/multicycle_processor/s12.v {1 {vlog -work work C:/Users/Frex/Documents/GitHub/multicycle_processor/s12.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module topmulti
+-- Compiling module sl2
 
 Top level modules:
-	topmulti
+	sl2
+
+} {} {}} C:/Users/Frex/Documents/GitHub/multicycle_processor/aludec.v {1 {vlog -work work C:/Users/Frex/Documents/GitHub/multicycle_processor/aludec.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module aludec
+
+Top level modules:
+	aludec
 
 } {} {}}

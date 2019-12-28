@@ -22,497 +22,535 @@ Z12 !s107 C:/Users/Frex/Documents/GitHub/multicycle_processor/alu.v|
 !i10b 1
 !s85 0
 !s101 -O0
-valudec
-Z13 !s100 >7[DGi1XCEcFIC5DN3MTT3
-Z14 IG^QlK?_LjBmcYcJjPLd[]3
-Z15 VV@U_8;`LNAe8eO3WRWMD]1
+valu_tb
+Z13 I74dQR?1hbafRK>UF0zHiD0
+Z14 VL;=kgzZ7GJ2Reg7Z1GkmR2
 R4
-Z16 w1575451367
-Z17 8C:/Users/Frex/Documents/GitHub/multicycle_processor/aludec.v
-Z18 FC:/Users/Frex/Documents/GitHub/multicycle_processor/aludec.v
+Z15 w1576382236
+Z16 8C:\Users\Frex\Documents\GitHub\multicycle_processor\alu_tb.v
+Z17 FC:\Users\Frex\Documents\GitHub\multicycle_processor\alu_tb.v
 L0 1
 R8
 r1
 31
-Z19 !s90 -reportprogress|300|-work|work|C:/Users/Frex/Documents/GitHub/multicycle_processor/aludec.v|
+Z18 !s90 -reportprogress|300|-work|work|C:\Users\Frex\Documents\GitHub\multicycle_processor\alu_tb.v|
 R10
-Z20 !s108 1575822973.650000
-Z21 !s107 C:/Users/Frex/Documents/GitHub/multicycle_processor/aludec.v|
+!i10b 1
+Z19 !s100 a765;X6O[BP6TCoSb]DSP1
+!s85 0
+Z20 !s108 1576382244.812000
+Z21 !s107 C:\Users\Frex\Documents\GitHub\multicycle_processor\alu_tb.v|
+!s101 -O0
+valudec
+Z22 !s100 >7[DGi1XCEcFIC5DN3MTT3
+Z23 IG^QlK?_LjBmcYcJjPLd[]3
+Z24 VV@U_8;`LNAe8eO3WRWMD]1
+R4
+Z25 w1575451367
+Z26 8C:/Users/Frex/Documents/GitHub/multicycle_processor/aludec.v
+Z27 FC:/Users/Frex/Documents/GitHub/multicycle_processor/aludec.v
+L0 1
+R8
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|C:/Users/Frex/Documents/GitHub/multicycle_processor/aludec.v|
+R10
+Z29 !s108 1575822973.650000
+Z30 !s107 C:/Users/Frex/Documents/GitHub/multicycle_processor/aludec.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vcontroller
-Z22 !s100 o79;n8AbGYj@>FA_dhVz53
-Z23 IDR4O=b61G6AocA[MG]5bP1
-Z24 VmYFB[chMoT?XGD[W<_Vg00
+Z31 !s100 o79;n8AbGYj@>FA_dhVz53
+Z32 IDR4O=b61G6AocA[MG]5bP1
+Z33 VmYFB[chMoT?XGD[W<_Vg00
 R4
-Z25 w1575451306
-Z26 8C:/Users/Frex/Documents/GitHub/multicycle_processor/controller.v
-Z27 FC:/Users/Frex/Documents/GitHub/multicycle_processor/controller.v
+Z34 w1575451306
+Z35 8C:/Users/Frex/Documents/GitHub/multicycle_processor/controller.v
+Z36 FC:/Users/Frex/Documents/GitHub/multicycle_processor/controller.v
 L0 5
 R8
 r1
 31
-Z28 !s90 -reportprogress|300|-work|work|C:/Users/Frex/Documents/GitHub/multicycle_processor/controller.v|
+Z37 !s90 -reportprogress|300|-work|work|C:/Users/Frex/Documents/GitHub/multicycle_processor/controller.v|
 R10
-Z29 !s108 1575822971.762000
-Z30 !s107 C:/Users/Frex/Documents/GitHub/multicycle_processor/controller.v|
+Z38 !s108 1575822971.762000
+Z39 !s107 C:/Users/Frex/Documents/GitHub/multicycle_processor/controller.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vcontroller_tb
-Z31 IHfFYHIYh;b3kK1F^kUl[g0
-Z32 VXjLFUflKQlK1WTZm==8l41
+Z40 IHfFYHIYh;b3kK1F^kUl[g0
+Z41 VXjLFUflKQlK1WTZm==8l41
 R4
-Z33 w1575823945
-Z34 8C:/Users/Frex/Documents/GitHub/multicycle_processor/controller_tb.v
-Z35 FC:/Users/Frex/Documents/GitHub/multicycle_processor/controller_tb.v
+Z42 w1575823945
+Z43 8C:/Users/Frex/Documents/GitHub/multicycle_processor/controller_tb.v
+Z44 FC:/Users/Frex/Documents/GitHub/multicycle_processor/controller_tb.v
 L0 2
 R8
 r1
 31
-Z36 !s90 -reportprogress|300|-work|work|C:/Users/Frex/Documents/GitHub/multicycle_processor/controller_tb.v|
+Z45 !s90 -reportprogress|300|-work|work|C:/Users/Frex/Documents/GitHub/multicycle_processor/controller_tb.v|
 R10
-Z37 !s100 7Pz@3eD80eL@6@c^bRXTU2
-Z38 !s108 1575823949.397000
-Z39 !s107 C:/Users/Frex/Documents/GitHub/multicycle_processor/controller_tb.v|
+Z46 !s100 7Pz@3eD80eL@6@c^bRXTU2
+Z47 !s108 1575823949.397000
+Z48 !s107 C:/Users/Frex/Documents/GitHub/multicycle_processor/controller_tb.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vcontrollert
-Z40 ILo=bcm;oc;0aJ^d1UmZ;Z2
-Z41 VGK]b<oiWh>^<:?P4Q>nYK0
+Z49 ILo=bcm;oc;0aJ^d1UmZ;Z2
+Z50 VGK]b<oiWh>^<:?P4Q>nYK0
 R4
-Z42 w1575823913
-R34
-R35
+Z51 w1575823913
+R43
+R44
 L0 2
 R8
 r1
 31
 R10
-Z43 !s100 1aJgC6PNg]_0n19c`MCmG0
-Z44 !s108 1575823928.407000
-R39
-R36
+Z52 !s100 1aJgC6PNg]_0n19c`MCmG0
+Z53 !s108 1575823928.407000
+R48
+R45
 !i10b 1
 !s85 0
 !s101 -O0
 vdatapath
-Z45 !s100 PDl]mR]miLMB4=CX;Pf`>0
-Z46 IE_RHSNK9W0M0U]6MBj@`b1
-Z47 Ve3_EzmeDAX@n51mzb_UD<3
+Z54 !s100 PDl]mR]miLMB4=CX;Pf`>0
+Z55 IE_RHSNK9W0M0U]6MBj@`b1
+Z56 Ve3_EzmeDAX@n51mzb_UD<3
 R4
-Z48 w1575451442
-Z49 8C:/Users/Frex/Documents/GitHub/multicycle_processor/datapath.v
-Z50 FC:/Users/Frex/Documents/GitHub/multicycle_processor/datapath.v
+Z57 w1575451442
+Z58 8C:/Users/Frex/Documents/GitHub/multicycle_processor/datapath.v
+Z59 FC:/Users/Frex/Documents/GitHub/multicycle_processor/datapath.v
 L0 1
 R8
 r1
 31
-Z51 !s90 -reportprogress|300|-work|work|C:/Users/Frex/Documents/GitHub/multicycle_processor/datapath.v|
+Z60 !s90 -reportprogress|300|-work|work|C:/Users/Frex/Documents/GitHub/multicycle_processor/datapath.v|
 R10
-Z52 !s108 1575822974.389000
-Z53 !s107 C:/Users/Frex/Documents/GitHub/multicycle_processor/datapath.v|
+Z61 !s108 1575822974.389000
+Z62 !s107 C:/Users/Frex/Documents/GitHub/multicycle_processor/datapath.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vflopenr
-Z54 !s100 `inW>T=V>JZ8lk`:5_h<A0
-Z55 I1=mE6W1XkN8JHVjKIBP0^3
-Z56 Vl[@31Ka9Wak9oGo?2I58:3
+Z63 !s100 `inW>T=V>JZ8lk`:5_h<A0
+Z64 I1=mE6W1XkN8JHVjKIBP0^3
+Z65 Vl[@31Ka9Wak9oGo?2I58:3
 R4
-Z57 w1575450989
-Z58 8C:/Users/Frex/Documents/GitHub/multicycle_processor/flopenr.v
-Z59 FC:/Users/Frex/Documents/GitHub/multicycle_processor/flopenr.v
+Z66 w1575450989
+Z67 8C:/Users/Frex/Documents/GitHub/multicycle_processor/flopenr.v
+Z68 FC:/Users/Frex/Documents/GitHub/multicycle_processor/flopenr.v
 L0 1
 R8
 r1
 31
-Z60 !s90 -reportprogress|300|-work|work|C:/Users/Frex/Documents/GitHub/multicycle_processor/flopenr.v|
+Z69 !s90 -reportprogress|300|-work|work|C:/Users/Frex/Documents/GitHub/multicycle_processor/flopenr.v|
 R10
-Z61 !s108 1575822966.432000
-Z62 !s107 C:/Users/Frex/Documents/GitHub/multicycle_processor/flopenr.v|
+Z70 !s108 1575822966.432000
+Z71 !s107 C:/Users/Frex/Documents/GitHub/multicycle_processor/flopenr.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vflopr
-Z63 !s100 P5KBWFk4dfa[Vi`X5D9]f2
-Z64 Ic[kSLi:___M1k^jhjLSz90
-Z65 VKfe>keNPnLBlHh<KCg1o52
+Z72 !s100 P5KBWFk4dfa[Vi`X5D9]f2
+Z73 Ic[kSLi:___M1k^jhjLSz90
+Z74 VKfe>keNPnLBlHh<KCg1o52
 R4
-Z66 w1575450955
-Z67 8C:\Users\Frex\Documents\GitHub\multicycle_processor\flopr.v
-Z68 FC:\Users\Frex\Documents\GitHub\multicycle_processor\flopr.v
+Z75 w1575450955
+Z76 8C:\Users\Frex\Documents\GitHub\multicycle_processor\flopr.v
+Z77 FC:\Users\Frex\Documents\GitHub\multicycle_processor\flopr.v
 L0 1
 R8
 r1
 31
-Z69 !s90 -reportprogress|300|-work|work|C:\Users\Frex\Documents\GitHub\multicycle_processor\flopr.v|
+Z78 !s90 -reportprogress|300|-work|work|C:\Users\Frex\Documents\GitHub\multicycle_processor\flopr.v|
 R10
-Z70 !s108 1575822966.018000
-Z71 !s107 C:\Users\Frex\Documents\GitHub\multicycle_processor\flopr.v|
+Z79 !s108 1575822966.018000
+Z80 !s107 C:\Users\Frex\Documents\GitHub\multicycle_processor\flopr.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vflopr_tb
-Z72 !s100 J8f<kF^KU32<B8>mXJFzi1
-Z73 I>4DOXG9=A_=2IE^X91gi00
-Z74 V2EY5eB;ze38<3?8VYd:>l0
+Z81 !s100 J8f<kF^KU32<B8>mXJFzi1
+Z82 I>4DOXG9=A_=2IE^X91gi00
+Z83 V2EY5eB;ze38<3?8VYd:>l0
 R4
-Z75 w1575818739
-Z76 8C:/Users/Frex/Documents/GitHub/multicycle_processor/flopr_tb.v
-Z77 FC:/Users/Frex/Documents/GitHub/multicycle_processor/flopr_tb.v
+Z84 w1575818739
+Z85 8C:/Users/Frex/Documents/GitHub/multicycle_processor/flopr_tb.v
+Z86 FC:/Users/Frex/Documents/GitHub/multicycle_processor/flopr_tb.v
 L0 2
 R8
 r1
 31
-Z78 !s90 -reportprogress|300|-work|work|C:/Users/Frex/Documents/GitHub/multicycle_processor/flopr_tb.v|
+Z87 !s90 -reportprogress|300|-work|work|C:/Users/Frex/Documents/GitHub/multicycle_processor/flopr_tb.v|
 R10
-Z79 !s108 1575822977.937000
-Z80 !s107 C:/Users/Frex/Documents/GitHub/multicycle_processor/flopr_tb.v|
+Z88 !s108 1575822977.937000
+Z89 !s107 C:/Users/Frex/Documents/GitHub/multicycle_processor/flopr_tb.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vfloprenr_tb
-Z81 !s100 2Ro^`lALGnezn]fF>EzWI1
-Z82 I<m96E<;DTZim^]1FnZ7Fg0
-Z83 VkoY?FXgI7of<U3dzaGoeh1
+Z90 !s100 2Ro^`lALGnezn]fF>EzWI1
+Z91 I<m96E<;DTZim^]1FnZ7Fg0
+Z92 VkoY?FXgI7of<U3dzaGoeh1
 R4
-Z84 w1575819061
-Z85 8C:/Users/Frex/Documents/GitHub/multicycle_processor/flopenr_tb.v
-Z86 FC:/Users/Frex/Documents/GitHub/multicycle_processor/flopenr_tb.v
+Z93 w1575819061
+Z94 8C:/Users/Frex/Documents/GitHub/multicycle_processor/flopenr_tb.v
+Z95 FC:/Users/Frex/Documents/GitHub/multicycle_processor/flopenr_tb.v
 L0 2
 R8
 r1
 31
-Z87 !s90 -reportprogress|300|-work|work|C:/Users/Frex/Documents/GitHub/multicycle_processor/flopenr_tb.v|
+Z96 !s90 -reportprogress|300|-work|work|C:/Users/Frex/Documents/GitHub/multicycle_processor/flopenr_tb.v|
 R10
-Z88 !s108 1575822978.446000
-Z89 !s107 C:/Users/Frex/Documents/GitHub/multicycle_processor/flopenr_tb.v|
+Z97 !s108 1575822978.446000
+Z98 !s107 C:/Users/Frex/Documents/GitHub/multicycle_processor/flopenr_tb.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vmaindec
-Z90 !s100 DE70?a^R2Il^hFoIldBol0
-Z91 I2^b8F_QOA7@UllJD>Oz:@3
-Z92 VeYQ=<Xlaj_FlM^6OgYnbV0
+Z99 !s100 DE70?a^R2Il^hFoIldBol0
+Z100 I2^b8F_QOA7@UllJD>Oz:@3
+Z101 VeYQ=<Xlaj_FlM^6OgYnbV0
 R4
-Z93 w1575451335
-Z94 8C:/Users/Frex/Documents/GitHub/multicycle_processor/maindec.v
-Z95 FC:/Users/Frex/Documents/GitHub/multicycle_processor/maindec.v
+Z102 w1575451335
+Z103 8C:/Users/Frex/Documents/GitHub/multicycle_processor/maindec.v
+Z104 FC:/Users/Frex/Documents/GitHub/multicycle_processor/maindec.v
 L0 3
 R8
 r1
 31
-Z96 !s90 -reportprogress|300|-work|work|C:/Users/Frex/Documents/GitHub/multicycle_processor/maindec.v|
+Z105 !s90 -reportprogress|300|-work|work|C:/Users/Frex/Documents/GitHub/multicycle_processor/maindec.v|
 R10
-Z97 !s108 1575822972.818000
-Z98 !s107 C:/Users/Frex/Documents/GitHub/multicycle_processor/maindec.v|
+Z106 !s108 1575822972.818000
+Z107 !s107 C:/Users/Frex/Documents/GitHub/multicycle_processor/maindec.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vmem
-Z99 !s100 DzZ<?Yd<jU0jdDIGemW^`3
-Z100 IN9fLLLDQ9?hFNcFgnm7IS0
-Z101 VKNVGMF86I43QTg]=^@cjJ2
+Z108 !s100 DzZ<?Yd<jU0jdDIGemW^`3
+Z109 IN9fLLLDQ9?hFNcFgnm7IS0
+Z110 VKNVGMF86I43QTg]=^@cjJ2
 R4
-Z102 w1576124391
-Z103 8C:/Users/Frex/Documents/GitHub/multicycle_processor/mem.v
-Z104 FC:/Users/Frex/Documents/GitHub/multicycle_processor/mem.v
+Z111 w1576124391
+Z112 8C:/Users/Frex/Documents/GitHub/multicycle_processor/mem.v
+Z113 FC:/Users/Frex/Documents/GitHub/multicycle_processor/mem.v
 L0 1
 R8
 r1
 31
-Z105 !s90 -reportprogress|300|-work|work|C:/Users/Frex/Documents/GitHub/multicycle_processor/mem.v|
+Z114 !s90 -reportprogress|300|-work|work|C:/Users/Frex/Documents/GitHub/multicycle_processor/mem.v|
 R10
-Z106 !s108 1576124657.298000
-Z107 !s107 C:/Users/Frex/Documents/GitHub/multicycle_processor/mem.v|
+Z115 !s108 1576124657.298000
+Z116 !s107 C:/Users/Frex/Documents/GitHub/multicycle_processor/mem.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vmem_tb
-!i10b 1
-!s100 izOf]flGK9z[FkEhg51O=1
-I5VaT5j`7=ho6:DdKm6B_J3
-Z108 Viea73KSBVnbmVLAUD=RT;1
+Z117 I5VaT5j`7=ho6:DdKm6B_J3
+Z118 Viea73KSBVnbmVLAUD=RT;1
 R4
-w1576124793
-Z109 8C:/Users/Frex/Documents/GitHub/multicycle_processor/mem_tb.v
-Z110 FC:/Users/Frex/Documents/GitHub/multicycle_processor/mem_tb.v
+Z119 w1576124793
+Z120 8C:/Users/Frex/Documents/GitHub/multicycle_processor/mem_tb.v
+Z121 FC:/Users/Frex/Documents/GitHub/multicycle_processor/mem_tb.v
 L0 1
 R8
 r1
-!s85 0
 31
-!s108 1576124822.031000
-!s107 C:/Users/Frex/Documents/GitHub/multicycle_processor/mem_tb.v|
-Z111 !s90 -reportprogress|300|-work|work|C:/Users/Frex/Documents/GitHub/multicycle_processor/mem_tb.v|
-!s101 -O0
+Z122 !s90 -reportprogress|300|-work|work|C:/Users/Frex/Documents/GitHub/multicycle_processor/mem_tb.v|
 R10
+Z123 !s100 izOf]flGK9z[FkEhg51O=1
+Z124 !s108 1576124822.031000
+Z125 !s107 C:/Users/Frex/Documents/GitHub/multicycle_processor/mem_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
 vmips
-Z112 !s100 h5kHm9[SeJIC9`>RM@jFT3
-Z113 IJ9CKE;G:S7afFCbHi;d041
-Z114 VmdOXW1ZBaLSiZi1>XR]mQ0
+Z126 !s100 h5kHm9[SeJIC9`>RM@jFT3
+Z127 IJ9CKE;G:S7afFCbHi;d041
+Z128 VmdOXW1ZBaLSiZi1>XR]mQ0
 R4
-Z115 w1575451264
-Z116 8C:/Users/Frex/Documents/GitHub/multicycle_processor/mips.v
-Z117 FC:/Users/Frex/Documents/GitHub/multicycle_processor/mips.v
+Z129 w1575451264
+Z130 8C:/Users/Frex/Documents/GitHub/multicycle_processor/mips.v
+Z131 FC:/Users/Frex/Documents/GitHub/multicycle_processor/mips.v
 L0 2
 R8
 r1
 31
-Z118 !s90 -reportprogress|300|-work|work|C:/Users/Frex/Documents/GitHub/multicycle_processor/mips.v|
+Z132 !s90 -reportprogress|300|-work|work|C:/Users/Frex/Documents/GitHub/multicycle_processor/mips.v|
 R10
-Z119 !s108 1575822971.291000
-Z120 !s107 C:/Users/Frex/Documents/GitHub/multicycle_processor/mips.v|
+Z133 !s108 1575822971.291000
+Z134 !s107 C:/Users/Frex/Documents/GitHub/multicycle_processor/mips.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vmux2
-Z121 !s100 :=l]b2MYFIUiA9jHY;I3i3
-Z122 IE[`mGWHIzOg:JmLVaYLYW3
-Z123 VT8RWJBjAIeM]>7U=5kBkT1
+Z135 !s100 :=l]b2MYFIUiA9jHY;I3i3
+Z136 IE[`mGWHIzOg:JmLVaYLYW3
+Z137 VT8RWJBjAIeM]>7U=5kBkT1
 R4
-Z124 w1575451027
-Z125 8C:/Users/Frex/Documents/GitHub/multicycle_processor/mux2.v
-Z126 FC:/Users/Frex/Documents/GitHub/multicycle_processor/mux2.v
+Z138 w1575451027
+Z139 8C:/Users/Frex/Documents/GitHub/multicycle_processor/mux2.v
+Z140 FC:/Users/Frex/Documents/GitHub/multicycle_processor/mux2.v
 L0 1
 R8
 r1
 31
-Z127 !s90 -reportprogress|300|-work|work|C:/Users/Frex/Documents/GitHub/multicycle_processor/mux2.v|
+Z141 !s90 -reportprogress|300|-work|work|C:/Users/Frex/Documents/GitHub/multicycle_processor/mux2.v|
 R10
-Z128 !s108 1575822967.118000
-Z129 !s107 C:/Users/Frex/Documents/GitHub/multicycle_processor/mux2.v|
+Z142 !s108 1575822967.118000
+Z143 !s107 C:/Users/Frex/Documents/GitHub/multicycle_processor/mux2.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vmux2_tb
-Z130 IiTAQ8o73`KnP_Kn6dPLMC1
-Z131 VD`0cS;PU7j@lolX_<U7?d3
+Z144 IiTAQ8o73`KnP_Kn6dPLMC1
+Z145 VD`0cS;PU7j@lolX_<U7?d3
 R4
-Z132 w1575822850
-Z133 8C:/Users/Frex/Documents/GitHub/multicycle_processor/mux3_tb.v
-Z134 FC:/Users/Frex/Documents/GitHub/multicycle_processor/mux3_tb.v
+Z146 w1575822850
+Z147 8C:/Users/Frex/Documents/GitHub/multicycle_processor/mux3_tb.v
+Z148 FC:/Users/Frex/Documents/GitHub/multicycle_processor/mux3_tb.v
 L0 3
 R8
 r1
 31
 R10
-Z135 !s100 :Eo8UhORn[WU<fJ4Fd8Di2
-Z136 !s108 1575822976.366000
-Z137 !s107 C:/Users/Frex/Documents/GitHub/multicycle_processor/mux3_tb.v|
-Z138 !s90 -reportprogress|300|-work|work|C:/Users/Frex/Documents/GitHub/multicycle_processor/mux3_tb.v|
+Z149 !s100 :Eo8UhORn[WU<fJ4Fd8Di2
+Z150 !s108 1575822976.366000
+Z151 !s107 C:/Users/Frex/Documents/GitHub/multicycle_processor/mux3_tb.v|
+Z152 !s90 -reportprogress|300|-work|work|C:/Users/Frex/Documents/GitHub/multicycle_processor/mux3_tb.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vmux3
-Z139 I`>H@3HhO3_zlV@lKd]d4?1
-Z140 VOUmeXZ?F<IJFMY21E797h2
+Z153 I`>H@3HhO3_zlV@lKd]d4?1
+Z154 VOUmeXZ?F<IJFMY21E797h2
 R4
-Z141 w1575823519
-Z142 8C:/Users/Frex/Documents/GitHub/multicycle_processor/mux3.v
-Z143 FC:/Users/Frex/Documents/GitHub/multicycle_processor/mux3.v
+Z155 w1575823519
+Z156 8C:/Users/Frex/Documents/GitHub/multicycle_processor/mux3.v
+Z157 FC:/Users/Frex/Documents/GitHub/multicycle_processor/mux3.v
 L0 2
 R8
 r1
 31
-Z144 !s90 -reportprogress|300|-work|work|C:/Users/Frex/Documents/GitHub/multicycle_processor/mux3.v|
+Z158 !s90 -reportprogress|300|-work|work|C:/Users/Frex/Documents/GitHub/multicycle_processor/mux3.v|
 R10
-Z145 !s100 f124Da;W5BF@O@bTfOj0m2
-Z146 !s108 1575823553.047000
-Z147 !s107 C:/Users/Frex/Documents/GitHub/multicycle_processor/mux3.v|
+Z159 !s100 f124Da;W5BF@O@bTfOj0m2
+Z160 !s108 1575823553.047000
+Z161 !s107 C:/Users/Frex/Documents/GitHub/multicycle_processor/mux3.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vmux3_tb
-Z148 !s100 OLAn[zma[8PEDB`DlCf0T3
-Z149 I;UjEPHS;RDGF8<?ecY4K31
-Z150 VC107bYFk2g01434o4GZPk0
+Z162 !s100 OLAn[zma[8PEDB`DlCf0T3
+Z163 I;UjEPHS;RDGF8<?ecY4K31
+Z164 VC107bYFk2g01434o4GZPk0
 R4
-Z151 w1575823410
-R133
-R134
+Z165 w1575823410
+R147
+R148
 L0 2
 R8
 r1
 31
-R138
+R152
 R10
-Z152 !s108 1575823553.790000
-R137
+Z166 !s108 1575823553.790000
+R151
 !i10b 1
 !s85 0
 !s101 -O0
 vmux4
-Z153 !s100 Ehe];cREUXjobMEk1?n0K2
-Z154 IY58lE9z1dS9F`DdX<_dJ?2
-Z155 V@m74j;^3XFJ7>OzQXh6V`0
+Z167 !s100 Ehe];cREUXjobMEk1?n0K2
+Z168 IY58lE9z1dS9F`DdX<_dJ?2
+Z169 V@m74j;^3XFJ7>OzQXh6V`0
 R4
-Z156 w1575451106
-Z157 8C:/Users/Frex/Documents/GitHub/multicycle_processor/mux4.v
-Z158 FC:/Users/Frex/Documents/GitHub/multicycle_processor/mux4.v
+Z170 w1575451106
+Z171 8C:/Users/Frex/Documents/GitHub/multicycle_processor/mux4.v
+Z172 FC:/Users/Frex/Documents/GitHub/multicycle_processor/mux4.v
 L0 1
 R8
 r1
 31
-Z159 !s90 -reportprogress|300|-work|work|C:/Users/Frex/Documents/GitHub/multicycle_processor/mux4.v|
+Z173 !s90 -reportprogress|300|-work|work|C:/Users/Frex/Documents/GitHub/multicycle_processor/mux4.v|
 R10
-Z160 !s108 1575822968.905000
-Z161 !s107 C:/Users/Frex/Documents/GitHub/multicycle_processor/mux4.v|
+Z174 !s108 1575822968.905000
+Z175 !s107 C:/Users/Frex/Documents/GitHub/multicycle_processor/mux4.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vmux4_tb
-Z162 I7UEFSBR7Q60=4^IPcSPbN0
-Z163 V7Xm5ik7jB4[l6_nXaaEjl2
+Z176 I7UEFSBR7Q60=4^IPcSPbN0
+Z177 V7Xm5ik7jB4[l6_nXaaEjl2
 R4
-Z164 w1575823127
-Z165 8C:/Users/Frex/Documents/GitHub/multicycle_processor/mux4_tb.v
-Z166 FC:/Users/Frex/Documents/GitHub/multicycle_processor/mux4_tb.v
+Z178 w1575823127
+Z179 8C:/Users/Frex/Documents/GitHub/multicycle_processor/mux4_tb.v
+Z180 FC:/Users/Frex/Documents/GitHub/multicycle_processor/mux4_tb.v
 L0 2
 R8
 r1
 31
 R10
-Z167 !s100 PeUkR7<26h2g<LlnNV[`90
-Z168 !s108 1575823554.824000
-Z169 !s107 C:/Users/Frex/Documents/GitHub/multicycle_processor/mux4_tb.v|
-Z170 !s90 -reportprogress|300|-work|work|C:/Users/Frex/Documents/GitHub/multicycle_processor/mux4_tb.v|
+Z181 !s100 PeUkR7<26h2g<LlnNV[`90
+Z182 !s108 1575823554.824000
+Z183 !s107 C:/Users/Frex/Documents/GitHub/multicycle_processor/mux4_tb.v|
+Z184 !s90 -reportprogress|300|-work|work|C:/Users/Frex/Documents/GitHub/multicycle_processor/mux4_tb.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vregfile
-Z171 !s100 H^H>9Jee;Wk34BbD5dERV0
-Z172 Ij^?L1Y0Fle5g9m`]:cNfN2
-Z173 Vl>JD@?ekG29h[?;gM3Z2H1
+Z185 !s100 H^H>9Jee;Wk34BbD5dERV0
+Z186 Ij^?L1Y0Fle5g9m`]:cNfN2
+Z187 Vl>JD@?ekG29h[?;gM3Z2H1
 R4
-Z174 w1575450841
-Z175 8C:/Users/Frex/Documents/GitHub/multicycle_processor/regfile.v
-Z176 FC:/Users/Frex/Documents/GitHub/multicycle_processor/regfile.v
+Z188 w1575450841
+Z189 8C:/Users/Frex/Documents/GitHub/multicycle_processor/regfile.v
+Z190 FC:/Users/Frex/Documents/GitHub/multicycle_processor/regfile.v
 L0 1
 R8
 r1
 31
-Z177 !s90 -reportprogress|300|-work|work|C:/Users/Frex/Documents/GitHub/multicycle_processor/regfile.v|
+Z191 !s90 -reportprogress|300|-work|work|C:/Users/Frex/Documents/GitHub/multicycle_processor/regfile.v|
 R10
-Z178 !s108 1575822963.451000
-Z179 !s107 C:/Users/Frex/Documents/GitHub/multicycle_processor/regfile.v|
+Z192 !s108 1575822963.451000
+Z193 !s107 C:/Users/Frex/Documents/GitHub/multicycle_processor/regfile.v|
 !i10b 1
 !s85 0
 !s101 -O0
-vs12_tb
-Z180 !s100 ]a_=1Fi[e7@oB4T>7g2AX2
-Z181 Im=FlN:oce><0jEPd`fH2i2
-Z182 VAgD@zNR:8K1zaH:N[Mm`A0
+vregfile_tb
+!i10b 1
+!s100 lBied_A=o4IRMoz^lR9<c1
+IjEmSoF4N@284g7^X[;b]01
+V]V^jAl7HVjn;3YfVo]HWL3
 R4
-Z183 w1575819632
-Z184 8C:/Users/Frex/Documents/GitHub/multicycle_processor/s12_tb.v
-Z185 FC:/Users/Frex/Documents/GitHub/multicycle_processor/s12_tb.v
+w1576382626
+8C:\Users\Frex\Documents\GitHub\multicycle_processor\regfile_tb.v
+FC:\Users\Frex\Documents\GitHub\multicycle_processor\regfile_tb.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1576382636.230000
+!s107 C:\Users\Frex\Documents\GitHub\multicycle_processor\regfile_tb.v|
+!s90 -reportprogress|300|-work|work|C:\Users\Frex\Documents\GitHub\multicycle_processor\regfile_tb.v|
+!s101 -O0
+R10
+vs12_tb
+Z194 !s100 ]a_=1Fi[e7@oB4T>7g2AX2
+Z195 Im=FlN:oce><0jEPd`fH2i2
+Z196 VAgD@zNR:8K1zaH:N[Mm`A0
+R4
+Z197 w1575819632
+Z198 8C:/Users/Frex/Documents/GitHub/multicycle_processor/s12_tb.v
+Z199 FC:/Users/Frex/Documents/GitHub/multicycle_processor/s12_tb.v
 L0 2
 R8
 r1
 31
-Z186 !s90 -reportprogress|300|-work|work|C:/Users/Frex/Documents/GitHub/multicycle_processor/s12_tb.v|
+Z200 !s90 -reportprogress|300|-work|work|C:/Users/Frex/Documents/GitHub/multicycle_processor/s12_tb.v|
 R10
-Z187 !s108 1575822976.945000
-Z188 !s107 C:/Users/Frex/Documents/GitHub/multicycle_processor/s12_tb.v|
+Z201 !s108 1575822976.945000
+Z202 !s107 C:/Users/Frex/Documents/GitHub/multicycle_processor/s12_tb.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vsignext
-Z189 !s100 jYX[YEb:>VOm`e4VgkJEC1
-Z190 INdkX@SJ[:A1`mVQlSNPLO3
-Z191 VzXjEl4X;;[WhS@=1HjFT41
+Z203 !s100 jYX[YEb:>VOm`e4VgkJEC1
+Z204 INdkX@SJ[:A1`mVQlSNPLO3
+Z205 VzXjEl4X;;[WhS@=1HjFT41
 R4
-Z192 w1575450925
-Z193 8C:/Users/Frex/Documents/GitHub/multicycle_processor/signext.v
-Z194 FC:/Users/Frex/Documents/GitHub/multicycle_processor/signext.v
+Z206 w1575450925
+Z207 8C:/Users/Frex/Documents/GitHub/multicycle_processor/signext.v
+Z208 FC:/Users/Frex/Documents/GitHub/multicycle_processor/signext.v
 L0 1
 R8
 r1
 31
-Z195 !s90 -reportprogress|300|-work|work|C:/Users/Frex/Documents/GitHub/multicycle_processor/signext.v|
+Z209 !s90 -reportprogress|300|-work|work|C:/Users/Frex/Documents/GitHub/multicycle_processor/signext.v|
 R10
-Z196 !s108 1575822965.167000
-Z197 !s107 C:/Users/Frex/Documents/GitHub/multicycle_processor/signext.v|
+Z210 !s108 1575822965.167000
+Z211 !s107 C:/Users/Frex/Documents/GitHub/multicycle_processor/signext.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vsignext_tb
-Z198 !s100 27H50dIE^:z]o?L5@ZaLZ3
-Z199 IHdADJbV0H<okEaXVCFQ<C2
-Z200 V>1<ofb8@[eTzegjP_iP4V2
+Z212 !s100 27H50dIE^:z]o?L5@ZaLZ3
+Z213 IHdADJbV0H<okEaXVCFQ<C2
+Z214 V>1<ofb8@[eTzegjP_iP4V2
 R4
-Z201 w1575819976
-Z202 8C:/Users/Frex/Documents/GitHub/multicycle_processor/signext_tb.v
-Z203 FC:/Users/Frex/Documents/GitHub/multicycle_processor/signext_tb.v
+Z215 w1575819976
+Z216 8C:/Users/Frex/Documents/GitHub/multicycle_processor/signext_tb.v
+Z217 FC:/Users/Frex/Documents/GitHub/multicycle_processor/signext_tb.v
 L0 2
 R8
 r1
 31
-Z204 !s90 -reportprogress|300|-work|work|C:/Users/Frex/Documents/GitHub/multicycle_processor/signext_tb.v|
+Z218 !s90 -reportprogress|300|-work|work|C:/Users/Frex/Documents/GitHub/multicycle_processor/signext_tb.v|
 R10
-Z205 !s108 1575822977.444000
-Z206 !s107 C:/Users/Frex/Documents/GitHub/multicycle_processor/signext_tb.v|
+Z219 !s108 1575822977.444000
+Z220 !s107 C:/Users/Frex/Documents/GitHub/multicycle_processor/signext_tb.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vsl2
-Z207 !s100 Iej@RTlWW31bHQ9^ga03i1
-Z208 IGYHhZl0bk@>cnlShMVJVO3
-Z209 VMHGRbO<8oJM:TjGW_j2PX2
+Z221 !s100 Iej@RTlWW31bHQ9^ga03i1
+Z222 IGYHhZl0bk@>cnlShMVJVO3
+Z223 VMHGRbO<8oJM:TjGW_j2PX2
 R4
-Z210 w1575450865
-Z211 8C:/Users/Frex/Documents/GitHub/multicycle_processor/s12.v
-Z212 FC:/Users/Frex/Documents/GitHub/multicycle_processor/s12.v
+Z224 w1575450865
+Z225 8C:/Users/Frex/Documents/GitHub/multicycle_processor/s12.v
+Z226 FC:/Users/Frex/Documents/GitHub/multicycle_processor/s12.v
 L0 1
 R8
 r1
 31
-Z213 !s90 -reportprogress|300|-work|work|C:/Users/Frex/Documents/GitHub/multicycle_processor/s12.v|
+Z227 !s90 -reportprogress|300|-work|work|C:/Users/Frex/Documents/GitHub/multicycle_processor/s12.v|
 R10
-Z214 !s108 1575822964.049000
-Z215 !s107 C:/Users/Frex/Documents/GitHub/multicycle_processor/s12.v|
+Z228 !s108 1575822964.049000
+Z229 !s107 C:/Users/Frex/Documents/GitHub/multicycle_processor/s12.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vtestbench
-Z216 !s100 C`WmXe_cD?nzZR`F6_=ez0
-Z217 IJ1^dWG84I_^[8dlz0MGXC2
-Z218 VhGfW:390DM[oDMzegDH9`2
+Z230 !s100 C`WmXe_cD?nzZR`F6_=ez0
+Z231 IJ1^dWG84I_^[8dlz0MGXC2
+Z232 VhGfW:390DM[oDMzegDH9`2
 R4
-Z219 w1575451180
-Z220 8C:/Users/Frex/Documents/GitHub/multicycle_processor/testbench.v
-Z221 FC:/Users/Frex/Documents/GitHub/multicycle_processor/testbench.v
+Z233 w1575451180
+Z234 8C:/Users/Frex/Documents/GitHub/multicycle_processor/testbench.v
+Z235 FC:/Users/Frex/Documents/GitHub/multicycle_processor/testbench.v
 L0 1
 R8
 r1
 31
-Z222 !s90 -reportprogress|300|-work|work|C:/Users/Frex/Documents/GitHub/multicycle_processor/testbench.v|
+Z236 !s90 -reportprogress|300|-work|work|C:/Users/Frex/Documents/GitHub/multicycle_processor/testbench.v|
 R10
-Z223 !s108 1575822970.814000
-Z224 !s107 C:/Users/Frex/Documents/GitHub/multicycle_processor/testbench.v|
+Z237 !s108 1575822970.814000
+Z238 !s107 C:/Users/Frex/Documents/GitHub/multicycle_processor/testbench.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vtopmulti
-Z225 !s100 UzJ3KV0^3N?`aPYGT4Tga1
-Z226 IfCcohQF:N3hXga9IM632:2
-Z227 VRU[32QEVSb4MhFCYEFAFK3
+Z239 !s100 UzJ3KV0^3N?`aPYGT4Tga1
+Z240 IfCcohQF:N3hXga9IM632:2
+Z241 VRU[32QEVSb4MhFCYEFAFK3
 R4
-Z228 w1575451149
-Z229 8C:/Users/Frex/Documents/GitHub/multicycle_processor/topmulti.v
-Z230 FC:/Users/Frex/Documents/GitHub/multicycle_processor/topmulti.v
+Z242 w1575451149
+Z243 8C:/Users/Frex/Documents/GitHub/multicycle_processor/topmulti.v
+Z244 FC:/Users/Frex/Documents/GitHub/multicycle_processor/topmulti.v
 L0 1
 R8
 r1
 31
-Z231 !s90 -reportprogress|300|-work|work|C:/Users/Frex/Documents/GitHub/multicycle_processor/topmulti.v|
+Z245 !s90 -reportprogress|300|-work|work|C:/Users/Frex/Documents/GitHub/multicycle_processor/topmulti.v|
 R10
-Z232 !s108 1575822970.034000
-Z233 !s107 C:/Users/Frex/Documents/GitHub/multicycle_processor/topmulti.v|
+Z246 !s108 1575822970.034000
+Z247 !s107 C:/Users/Frex/Documents/GitHub/multicycle_processor/topmulti.v|
 !i10b 1
 !s85 0
 !s101 -O0
